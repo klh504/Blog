@@ -28,7 +28,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### About the Application
-This application has a SQL database on the backend.
+- Springboot MVC was used to create this REST API which accesses data from a SQL database.
+- The database is empty when the application is first created
+- The controllers in the application contain functions to create, read, update, and delete items from the tables in the database. 
+- Each controller corresponds to a different SQL table
+- The data is sent by using CURL commands
+- The data is output to the localhose URL in JSON format
+
+
 
 ### How the Application Works
 

@@ -27,6 +27,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### The Basic Information
+- The application is written in Java
+- The database is a mySQL database
+- The application runs using Maven
+
+
 ### About the Application
 - Springboot MVC was used to create this REST API which accesses data from a SQL database.
 - The database is empty when the application is first created

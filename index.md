@@ -27,8 +27,10 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About the Application
+This application has a SQL database on the backend.
 
-### Jekyll Themes
+### How the Application Works
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klh504/Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 

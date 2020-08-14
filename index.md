@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/klh504/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I have linked [my repository](https://github.com/klh504/accessing-data-mysql) for you to view and will be discussing some of the content on this page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have worked to make this repository function and output information in JSON format. I will be making additional changes over the next few weeks to continually improve the functionality and aesthetics of the application.
 
 ### Markdown
 

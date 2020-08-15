@@ -45,9 +45,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ### How the Application Works
+- This application was built using a maven dependency. The application can be run by opening a console and entering the command: mvnw spring-boot:run
+- The application can also be run by opening the files in a development environment and running the application
+- CURL commands can be sent through a console
+- The results of the CURL commands can be seen in the corresponding URL - either (http://localhost:8080/blogpost/allPosts) for blog information or (http://localhost:8080/demo/all) for login information.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klh504/Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
